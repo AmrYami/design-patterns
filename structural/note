@@ -1,0 +1,8 @@
+facade example like what i did in media lib that we have sub-system do alot
+of things so we need to make facade to implement this lib and what we
+ need from this lib to make our system work with it.
+ facade vs adapterWrapper
+ facade to implement what we need from sub-system or lib and our system will
+ work with facade not with lib or sub-system.
+ adapterWrapper to make to interfaces not return the same types work
+ with eachother and our system will work with this adapter.

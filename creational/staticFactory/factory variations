@@ -1,0 +1,17 @@
+abstract factory
+can inherit and test it
+create list of related objects with one function for each class
+
+static factory
+create list of related objects with one only function for all classes
+cant inherit and test
+
+factory method
+every factory has one only class intialize it.
+define an interface for creating and object, but let subclasses
+decide which class to instantiate
+
+simple factory
+a class simply creates the object you want to use, this allows interfaces
+ for creating
+objects without exposing the object creation logic to the client.

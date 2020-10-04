@@ -1,0 +1,4 @@
+to change syntax input from other language to my current language.
+input types has 2 types terminal value and non-terminal value.
+if value is terminal so this is final val .
+if value is un-terminal so we send value to interpreter again to get terminal value.

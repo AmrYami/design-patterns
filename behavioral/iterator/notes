@@ -1,0 +1,2 @@
+that we have 2 interfaces to retrieve data and 2 return different data so we
+use iterator to manage all data from 2 interfaces and return all in same type.

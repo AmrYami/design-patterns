@@ -1,0 +1,10 @@
+{
+    "name": "amryami/token-auth-lib",
+    "description": "auth token",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TokenAuthClasses\\": "classes"
+        }
+    }
+}

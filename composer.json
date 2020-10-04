@@ -1,0 +1,96 @@
+{
+    "name": "amryami/design-patterns-with-solid",
+    "description": "design-patterns-with-solid",
+    "require": {
+        "amryami/basic-auth-lib": "*@dev",
+        "amryami/token-auth-lib": "*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShapesClasses\\": "shapes/Classes",
+            "ShapesInterfaces\\": "shapes/Interfaces",
+            "ShapesFactory\\": "shapes/Factory",
+
+            "PenModels\\": "creational/builder/models",
+            "PenBuilders\\": "creational/builder/builders",
+            "PenInterfaces\\": "creational/builder/interfaces",
+            "PenClasses\\": "creational/builder/classes",
+            "PenFactory\\": "creational/builder/factories",
+
+            "BrandFactory\\": "creational/factory_method/factories",
+            "BrandInterfaces\\": "creational/factory_method/interfaces",
+            "BrandClasses\\": "creational/factory_method/classes",
+
+            "PoolClasses\\": "creational/pool/classes",
+
+            "ProtoTypeAbstracts\\": "creational/protoType/abstracts",
+            "ProtoTypeClasses\\": "creational/protoType/classes",
+
+            "SimpleFactoryClasses\\": "creational/simpleFactory/classes",
+            "SimpleFactoryFactories\\": "creational/simpleFactory/factories",
+
+            "StaticFactoryFactories\\": "creational/staticFactory/factories",
+            "StaticFactoryClasses\\": "creational/staticFactory/classes",
+            "StaticFactoryInterfaces\\": "creational/staticFactory/interfaces",
+
+            "AdapterWrapperInterfaces\\": "structural/adapterWrapper/interfaces",
+            "AdapterWrapperadapters\\": "structural/adapterWrapper/adapters",
+            "AdapterWrapperClasses\\": "structural/adapterWrapper/classes",
+
+            "AdapterThirdPartyClasses\\": "structural/adapterThirdParty/classes",
+            "AdapterThirdPartyInterfaces\\": "structural/adapterThirdParty/interfaces",
+            "AdapterThirdPartyadapters\\": "structural/adapterThirdParty/adapters",
+
+            "BridgeClasses\\": "structural/bridge/classes",
+            "BridgeInterfaces\\": "structural/bridge/interfaces",
+            "BridgeAbstractions\\": "structural/bridge/abstractions",
+
+            "CompositeClasses\\": "structural/composite/classes",
+            "CompositeInterfaces\\": "structural/composite/interfaces",
+
+            "DecoratorInterfaces\\": "structural/decorator/interfaces",
+            "DecoratorClasses\\": "structural/decorator/classes",
+            "DecoratorDecorators\\": "structural/decorator/decorators",
+
+            "ProxyProxy\\": "structural/proxy/proxy",
+            "ProxyInterfaces\\": "structural/proxy/interfaces",
+            "ProxyClasses\\": "structural/proxy/classes",
+
+
+
+            "flyweightClasses\\": "structural/flyweight/classes",
+            "flyweightFactories\\": "structural/flyweight/factories",
+            "flyweightFlyweight\\": "structural/flyweight/flyweight",
+
+            "chainClasses\\": "behavioral/chainOfResponsibility/classes",
+            "chainInterfaces\\": "behavioral/chainOfResponsibility/interfaces",
+            "chainAbstracts\\": "behavioral/chainOfResponsibility/abstracts",
+            "chainRequests\\": "behavioral/chainOfResponsibility/requests",
+
+            "StateInterfaces\\": "behavioral/state/interfaces",
+            "StateClasses\\": "behavioral/state/classes",
+
+            "TemplateInterfaces\\": "behavioral/templateMethod/interfaces",
+            "TemplateClasses\\": "behavioral/templateMethod/classes",
+            "TemplateAbstracts\\": "behavioral/templateMethod/abstracts",
+
+            "VisitorClasses\\": "behavioral/visitor/classes",
+            "VisitorInterfaces\\": "behavioral/visitor/interfaces",
+            "VisitorVisitors\\": "behavioral/visitor/visitors",
+
+            "MediatorClasses\\": "behavioral/mediator/classes",
+            "MediatorAbstracts\\": "behavioral/mediator/abstracts",
+            "MediatorMediators\\": "behavioral/mediator/mediators"
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "basicAuthLib"
+        },
+        {
+            "type": "path",
+            "url": "tokenAuthLib"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "782107af64b6087ab27e5a1875f38dba",
+    "packages": [
+        {
+            "name": "amryami/basic-auth-lib",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "basicAuthLib",
+                "reference": "82b6dadce2a93b5a0998ceecf6bb68120be285e8"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BasicAuthClasses\\": "classes"
+                }
+            },
+            "description": "basic auth"
+        },
+        {
+            "name": "amryami/token-auth-lib",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "tokenAuthLib",
+                "reference": "56f3b206d96acacbe8fd35b4924e848fc0d8d24d"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TokenAuthClasses\\": "classes"
+                }
+            },
+            "description": "auth token"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "amryami/basic-auth-lib": 20,
+        "amryami/token-auth-lib": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

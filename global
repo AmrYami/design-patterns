@@ -1,0 +1,7 @@
+singletone is depricated and we use now dependency injection alternative it.
+
+Association vs Composition vs Aggregation all meaning the connection between
+classes and almost we use it to decided what we keep in memory or destroy it
+mean if we need to destruct car are we destroy the engine or not.
+association is the weak connection aggregation is the middle
+composition is the strongest.

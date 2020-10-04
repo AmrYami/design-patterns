@@ -1,0 +1,38 @@
+[
+    {
+        "name": "amryami/basic-auth-lib",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "basicAuthLib",
+            "reference": "82b6dadce2a93b5a0998ceecf6bb68120be285e8"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "BasicAuthClasses\\": "classes"
+            }
+        },
+        "description": "basic auth"
+    },
+    {
+        "name": "amryami/token-auth-lib",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "tokenAuthLib",
+            "reference": "56f3b206d96acacbe8fd35b4924e848fc0d8d24d"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "TokenAuthClasses\\": "classes"
+            }
+        },
+        "description": "auth token"
+    }
+]

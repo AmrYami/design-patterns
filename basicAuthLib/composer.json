@@ -1,0 +1,10 @@
+{
+    "name": "amryami/basic-auth-lib",
+    "description": "basic auth",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BasicAuthClasses\\": "classes"
+        }
+    }
+}

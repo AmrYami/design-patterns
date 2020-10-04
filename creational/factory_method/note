@@ -1,0 +1,12 @@
+
+differnt between
+
+abstract factory give u object mean we method without change class;
+using abstract class not method
+
+
+
+
+factory method
+using the same method in factories you call we class without change method;
+using inhritance.
