@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7b6d76f-83a4-45a7-b7b4-e2677eb4abe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/newInPHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/newInPHP/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/amryami/basic-auth-lib" />
+      <path value="$PROJECT_DIR$/vendor/amryami/token-auth-lib" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kLnJt2WRZhbBT5stlaF7RHaWoo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b6d76f-83a4-45a7-b7b4-e2677eb4abe7" name="Default Changelist" comment="" />
+      <created>1605488670520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605488670520</updated>
+      <workItem from="1605488671578" duration="2380000" />
+      <workItem from="1605516018877" duration="1790000" />
+      <workItem from="1605558390924" duration="677000" />
+      <workItem from="1605602236682" duration="3006000" />
+      <workItem from="1605647926537" duration="599000" />
+      <workItem from="1605688570962" duration="598000" />
+      <workItem from="1606034040787" duration="88000" />
+      <workItem from="1606094516681" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl" timestamp="1606034126991">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl/72.27.1848.1173@72.27.1848.1173" timestamp="1606034126991" />
+  </component>
+</project>

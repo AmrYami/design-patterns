@@ -86,3 +86,6 @@ echo '<br><br><br>';
 $variable = '';
 $count = is_countable($variable) ? count($variable) : null;
 echo $count;
+
+
+echo substr("Hello world",2,-2)."<br>"; //going to remove first 2 chars and last 2 chars
