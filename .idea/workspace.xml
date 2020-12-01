@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b6d76f-83a4-45a7-b7b4-e2677eb4abe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newInPHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/newInPHP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structural/note" beforeDir="false" afterPath="$PROJECT_DIR$/structural/note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,17 @@
       <workItem from="1605647926537" duration="599000" />
       <workItem from="1605688570962" duration="598000" />
       <workItem from="1606034040787" duration="88000" />
-      <workItem from="1606094516681" duration="62000" />
+      <workItem from="1606094516681" duration="771000" />
+      <workItem from="1606120432402" duration="597000" />
+      <workItem from="1606158283335" duration="599000" />
+      <workItem from="1606206971698" duration="1226000" />
+      <workItem from="1606245599147" duration="599000" />
+      <workItem from="1606293272904" duration="1238000" />
+      <workItem from="1606378229314" duration="1198000" />
+      <workItem from="1606498662151" duration="656000" />
+      <workItem from="1606694571826" duration="4447000" />
+      <workItem from="1606725395556" duration="1274000" />
+      <workItem from="1606757473110" duration="5577000" />
     </task>
     <servers />
   </component>
@@ -57,9 +69,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl" timestamp="1606034126991">
+    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl" timestamp="1606523419977">
       <screen x="72" y="27" width="1848" height="1173" />
     </state>
-    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl/72.27.1848.1173@72.27.1848.1173" timestamp="1606034126991" />
+    <state x="726" y="314" width="530" height="605" key="FileChooserDialogImpl/72.27.1848.1173@72.27.1848.1173" timestamp="1606523419977" />
+    <state x="745" y="229" width="491" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606695836208">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="745" y="229" width="491" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1848.1173@72.27.1848.1173" timestamp="1606695836208" />
+    <state x="600" y="270" width="791" height="686" key="find.popup" timestamp="1606227363282">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="600" y="270" width="791" height="686" key="find.popup/72.27.1848.1173@72.27.1848.1173" timestamp="1606227363282" />
   </component>
 </project>
