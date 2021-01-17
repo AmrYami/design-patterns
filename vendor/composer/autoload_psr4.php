@@ -30,6 +30,7 @@ return array(
     'ShapesInterfaces\\' => array($baseDir . '/shapes/Interfaces'),
     'ShapesFactory\\' => array($baseDir . '/shapes/Factory'),
     'ShapesClasses\\' => array($baseDir . '/shapes/Classes'),
+    'Queue\\' => array($baseDir . '/dataStructureAlgorithm/queue'),
     'ProxyProxy\\' => array($baseDir . '/structural/proxy/proxy'),
     'ProxyInterfaces\\' => array($baseDir . '/structural/proxy/interfaces'),
     'ProxyClasses\\' => array($baseDir . '/structural/proxy/classes'),

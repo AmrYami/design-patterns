@@ -2,270 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b6d76f-83a4-45a7-b7b4-e2677eb4abe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/design-patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design-patterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/classes/BasicAuth.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/classes/BasicAuth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/basicAuthLib/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/abstracts/AbstractHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/abstracts/AbstractHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/AfafHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/AfafHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/AliHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/AliHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/MohsenHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/classes/MohsenHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/interfaces/HandlerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/interfaces/HandlerInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/chainOfResponsibility/requests/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/chainOfResponsibility/requests/Request.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/command/note" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/command/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/commandlinetools/Laravel_9_8_20__10_05_AM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/commandlinetools/Laravel_9_8_20__10_05_AM.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/designPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/designPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/.styleci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/.styleci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Controllers/CarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Controllers/CarController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrustHosts.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Observers/CarObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Observers/CarObserver.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/bootstrap/cache/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/cors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/hashing.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/hashing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/logging.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/queue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/config/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/factories/CarFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/factories/CarFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2020_09_07_214740_create_cars_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/migrations/2020_09_07_214740_create_cars_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/seeds/CarSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/seeds/CarSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/public/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/public/web.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/pagination.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/passwords.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/lang/en/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/routes/channels.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/routes/console.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/tests/CreatesApplication.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/tests/TestCase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/types" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/types" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/designPatterns/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/designPatterns/webpack.mix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/interpreter/notes" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/interpreter/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/iterator/notes" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/iterator/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/abstracts/BookColleague.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/abstracts/BookColleague.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/classes/BookAuthorColleague.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/classes/BookAuthorColleague.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/classes/BookTitleColleague.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/classes/BookTitleColleague.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/mediators/BookMediator.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/mediators/BookMediator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/note" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/mediator/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/mediator/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/memento/notes" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/memento/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/GumballMachine.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/GumballMachine.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/HasQuarterState.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/HasQuarterState.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/NoQuarterState.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/NoQuarterState.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/SoldOutState.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/SoldOutState.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/SoldState.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/SoldState.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/classes/WinnerState.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/classes/WinnerState.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/interfaces/GumballInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/interfaces/GumballInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/interfaces/ReFill.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/interfaces/ReFill.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/state/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/state/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/templateMethod/abstracts/CaffeineBeverage.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/templateMethod/abstracts/CaffeineBeverage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/templateMethod/classes/Coffe.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/templateMethod/classes/Coffe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/templateMethod/classes/Tea.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/templateMethod/classes/Tea.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/templateMethod/interfaces/Hook.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/templateMethod/interfaces/Hook.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/templateMethod/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/templateMethod/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/classes/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/classes/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/classes/Chair.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/classes/Chair.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/classes/Mango.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/classes/Mango.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/interfaces/Visitable.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/interfaces/Visitable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/interfaces/Visitor.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/interfaces/Visitor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/visitors/CustomsTax.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/visitors/CustomsTax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/visitors/SalesTax.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/visitors/SalesTax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/visitor/visitors/ValueAddedTax.php" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/visitor/visitors/ValueAddedTax.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/builders/PrimaBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/builders/PrimaBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/builders/RotoBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/builders/RotoBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/classes/PenProducer.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/classes/PenProducer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/factories/TypeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/factories/TypeFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/interfaces/PenInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/interfaces/PenInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/models/Pen.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/models/Pen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/models/Prima.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/models/Prima.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/models/Roto.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/models/Roto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/builder/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/builder/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/classes/PrimaBrand.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/classes/PrimaBrand.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/classes/RotoBrand.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/classes/RotoBrand.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/factories/PrimaFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/factories/PrimaFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/factories/RotoFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/factories/RotoFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/interfaces/BrandFactoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/interfaces/BrandFactoryInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/interfaces/BrandInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/interfaces/BrandInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/note" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/factory_method/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory_method/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/pool/classes/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/pool/classes/Book.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/pool/classes/BookPool.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/pool/classes/BookPool.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/pool/note" beforeDir="false" afterPath="$PROJECT_DIR$/creational/pool/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/pool/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/pool/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/protoType/abstracts/AbstractPantProtoType.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/protoType/abstracts/AbstractPantProtoType.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/protoType/classes/CotonPants.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/protoType/classes/CotonPants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/protoType/classes/LeatherPants.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/protoType/classes/LeatherPants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/protoType/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/protoType/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/simpleFactory/classes/Prima.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/simpleFactory/classes/Prima.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/simpleFactory/classes/Roto.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/simpleFactory/classes/Roto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/simpleFactory/factories/PenFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/simpleFactory/factories/PenFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/simpleFactory/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/simpleFactory/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/classes/Prima.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/classes/Prima.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/classes/Roto.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/classes/Roto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/factories/PenFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/factories/PenFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/factory variations" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/factory variations" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/interfaces/PenInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/interfaces/PenInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/staticFactory/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/creational/staticFactory/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global" beforeDir="false" afterPath="$PROJECT_DIR$/global" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newInPHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/newInPHP/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Classes/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Classes/Circle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Classes/GeometryShape.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Classes/GeometryShape.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Classes/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Classes/Rectangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Classes/Triangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Classes/Triangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Factory/ShapeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Factory/ShapeFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Interfaces/PolygonInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Interfaces/PolygonInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Interfaces/ShapeInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Interfaces/ShapeInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/Read Me" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/Read Me" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes/public/shapesData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/shapes/public/shapesData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/FluentBuilder/QueryBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/FluentBuilder/QueryBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/FluentBuilder/QueryBuilderInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/FluentBuilder/QueryBuilderInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterThirdParty/adapters/BasicAuthAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterThirdParty/adapters/BasicAuthAdapter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterThirdParty/adapters/TokenAuthAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterThirdParty/adapters/TokenAuthAdapter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterThirdParty/classes/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterThirdParty/classes/Login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterThirdParty/interfaces/AuthInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterThirdParty/interfaces/AuthInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterThirdParty/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterThirdParty/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/adapters/WeaponAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/adapters/WeaponAdapter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/adapters/WeaponAutoAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/adapters/WeaponAutoAdapter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/classes/Auto.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/classes/Auto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/classes/Manual.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/classes/Manual.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/interfaces/AutoInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/interfaces/AutoInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/interfaces/ManualInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/interfaces/ManualInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/adapterWrapper/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapterWrapper/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/abstractions/Pen.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/abstractions/Pen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/classes/BluePen.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/classes/BluePen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/classes/Prima.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/classes/Prima.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/classes/RedPen.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/classes/RedPen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/classes/Roto.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/classes/Roto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/interfaces/PenColor.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/interfaces/PenColor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/bridge/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/classes/BigBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/classes/BigBox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/classes/GiftBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/classes/GiftBox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/classes/SimpleBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/classes/SimpleBox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/interfaces/ActionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/interfaces/ActionInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/interfaces/GiftInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/interfaces/GiftInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/interfaces/ProductInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/interfaces/ProductInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/composite/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/dataMapper/example" beforeDir="false" afterPath="$PROJECT_DIR$/structural/dataMapper/example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/classes/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/classes/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/classes/Painting.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/classes/Painting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/decorators/BlackDecorator.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/decorators/BlackDecorator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/decorators/BlueDecorator.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/decorators/BlueDecorator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/decorators/PaintingDecorator.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/decorators/PaintingDecorator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/decorators/RedDecorator.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/decorators/RedDecorator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/interfaces/PaintingInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/interfaces/PaintingInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/decorator/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/classes/GameBoard.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/classes/GameBoard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/classes/GameTile.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/classes/GameTile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/classes/GameTileBorder.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/classes/GameTileBorder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/classes/GameTileColor.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/classes/GameTileColor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/classes/GameTileLevel.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/classes/GameTileLevel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/factories/GameTileFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/factories/GameTileFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/flyweight/GameTileFlyweight.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/flyweight/GameTileFlyweight.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/flyweight/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/note" beforeDir="false" afterPath="$PROJECT_DIR$/structural/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/proxy/classes/BankAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/proxy/classes/BankAccount.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/proxy/interfaces/BankAccountInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/proxy/interfaces/BankAccountInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/proxy/proxy/ATMProxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/proxy/proxy/ATMProxy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/proxy/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/structural/proxy/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/classes/TokenAuth.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/classes/TokenAuth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/tokenAuthLib/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,9 +39,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dataStructureAlgorithm/queue" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataStructureAlgorithm/queue" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -329,11 +78,23 @@
       <workItem from="1610434886577" duration="608000" />
       <workItem from="1610436149176" duration="615000" />
       <workItem from="1610520649935" duration="19110000" />
-      <workItem from="1610871738131" duration="1691000" />
+      <workItem from="1610871738131" duration="2305000" />
+      <workItem from="1610879998137" duration="5570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
