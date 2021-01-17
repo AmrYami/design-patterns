@@ -179,10 +179,10 @@ class Model{
         return new static;
     }
 }
-class User extends Model{
+class Users extends Model{
 
 }
-$model = new User();
+$model = new Users();
 var_dump($model->get());
 echo '<br>';
 str_contains("abc", "a"); // true
