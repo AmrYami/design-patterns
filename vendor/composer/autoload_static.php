@@ -47,6 +47,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
             'ShapesFactory\\' => 14,
             'ShapesClasses\\' => 14,
         ),
+        'Q' => 
+        array (
+            'Queue\\' => 6,
+        ),
         'P' => 
         array (
             'ProxyProxy\\' => 11,
@@ -203,6 +207,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         'ShapesClasses\\' => 
         array (
             0 => __DIR__ . '/../..' . '/shapes/Classes',
+        ),
+        'Queue\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/dataStructureAlgorithm/queue',
         ),
         'ProxyProxy\\' => 
         array (

@@ -84,7 +84,9 @@
 
             "Linkedlist\\": "data-structure-algorisms/link_list_class",
 
-            "Stack\\": "data-structure-algorisms/stack"
+            "Stack\\": "data-structure-algorisms/stack",
+
+            "Queue\\": "dataStructureAlgorithm/queue"
         }
     },
     "repositories": [
