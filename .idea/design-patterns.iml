@@ -58,6 +58,8 @@
       <sourceFolder url="file://$MODULE_DIR$/structural/bridge/classes" isTestSource="false" packagePrefix="BridgeClasses\" />
       <sourceFolder url="file://$MODULE_DIR$/behavioral/visitor/visitors" isTestSource="false" packagePrefix="VisitorVisitors\" />
       <sourceFolder url="file://$MODULE_DIR$/structural/proxy/interfaces" isTestSource="false" packagePrefix="ProxyInterfaces\" />
+      <sourceFolder url="file://$MODULE_DIR$/data-structure-algorisms/link_list_class" isTestSource="false" packagePrefix="Linkedlist\" />
+      <sourceFolder url="file://$MODULE_DIR$/data-structure-algorisms/stack" isTestSource="false" packagePrefix="Stack\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/amryami/basic-auth-lib" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/amryami/token-auth-lib" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />

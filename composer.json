@@ -80,7 +80,11 @@
 
             "MediatorClasses\\": "behavioral/mediator/classes",
             "MediatorAbstracts\\": "behavioral/mediator/abstracts",
-            "MediatorMediators\\": "behavioral/mediator/mediators"
+            "MediatorMediators\\": "behavioral/mediator/mediators",
+
+            "Linkedlist\\": "data-structure-algorisms/link_list_class",
+
+            "Stack\\": "data-structure-algorisms/stack"
         }
     },
     "repositories": [

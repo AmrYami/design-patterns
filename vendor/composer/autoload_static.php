@@ -40,6 +40,7 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
             'StaticFactoryClasses\\' => 21,
             'StateInterfaces\\' => 16,
             'StateClasses\\' => 13,
+            'Stack\\' => 6,
             'SimpleFactoryFactories\\' => 23,
             'SimpleFactoryClasses\\' => 21,
             'ShapesInterfaces\\' => 17,
@@ -65,6 +66,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
             'MediatorMediators\\' => 18,
             'MediatorClasses\\' => 16,
             'MediatorAbstracts\\' => 18,
+        ),
+        'L' => 
+        array (
+            'Linkedlist\\' => 11,
         ),
         'D' => 
         array (
@@ -175,6 +180,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         array (
             0 => __DIR__ . '/../..' . '/behavioral/state/classes',
         ),
+        'Stack\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/data-structure-algorisms/stack',
+        ),
         'SimpleFactoryFactories\\' => 
         array (
             0 => __DIR__ . '/../..' . '/creational/simpleFactory/factories',
@@ -251,6 +260,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         array (
             0 => __DIR__ . '/../..' . '/behavioral/mediator/abstracts',
         ),
+        'Linkedlist\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/data-structure-algorisms/link_list_class',
+        ),
         'DecoratorInterfaces\\' => 
         array (
             0 => __DIR__ . '/../..' . '/structural/decorator/interfaces',
@@ -325,11 +338,16 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         ),
     );
 
+    public static $classMap = array (
+        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61::$classMap;
 
         }, null, ClassLoader::class);
     }
