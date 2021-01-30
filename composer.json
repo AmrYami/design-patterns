@@ -86,7 +86,7 @@
 
             "Stack\\": "data-structure-algorisms/stack",
 
-            "Queue\\": "dataStructureAlgorithm/queue"
+            "Queue\\": "data-structure-algorisms/queue"
         }
     },
     "repositories": [
