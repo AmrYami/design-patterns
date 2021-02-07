@@ -94,6 +94,7 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
             'BrandInterfaces\\' => 16,
             'BrandFactory\\' => 13,
             'BrandClasses\\' => 13,
+            'BinaryTree\\' => 11,
             'BasicAuthClasses\\' => 17,
         ),
         'A' => 
@@ -210,7 +211,7 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         ),
         'Queue\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/dataStructureAlgorithm/queue',
+            0 => __DIR__ . '/../..' . '/data-structure-algorisms/queue',
         ),
         'ProxyProxy\\' => 
         array (
@@ -315,6 +316,10 @@ class ComposerStaticInit15564d7e02925ba6cea1ca24d11b1c61
         'BrandClasses\\' => 
         array (
             0 => __DIR__ . '/../..' . '/creational/factory_method/classes',
+        ),
+        'BinaryTree\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/data-structure-algorisms/binary-tree',
         ),
         'BasicAuthClasses\\' => 
         array (

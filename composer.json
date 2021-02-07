@@ -86,7 +86,9 @@
 
             "Stack\\": "data-structure-algorisms/stack",
 
-            "Queue\\": "data-structure-algorisms/queue"
+            "Queue\\": "data-structure-algorisms/queue",
+
+            "BinaryTree\\": "data-structure-algorisms/binary-tree"
         }
     },
     "repositories": [
