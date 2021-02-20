@@ -13,5 +13,5 @@ function insertionSort($arr)
     return $arr;
 }
 
-$sorted_numbers = insertionSort([3, 7, 1, 26, 43, 12, 6, 21, 23, 73, -1, 0]);
+$sorted_numbers = insertionSort([3, 7, 1, 26, 54, 12, 6, 21, 20, 70, -1, 0]);
 echo implode(' ,', $sorted_numbers);
