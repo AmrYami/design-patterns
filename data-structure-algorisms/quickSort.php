@@ -9,6 +9,7 @@ function quickSort(&$array, $left, $right)
 {
     if ($left < $right) {
         $pivotIndex = proccessSort($array, $left, $right);
+        echo implode(' ,', $array). '  :  '. $pivotIndex.'<br>' ;
         quickSort($array, $left, $pivotIndex -1);
         quickSort($array, $pivotIndex, $right);
     }
